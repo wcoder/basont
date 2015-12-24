@@ -1,0 +1,12 @@
+/* TEAM */
+	Author: Evgeniy Pakalo
+	Contact: evgeniy.pakalo [at] gmail.com
+	Twitter: @evgeniypakalo
+	Location: Brest, Belarus
+
+/* SITE */
+	Last update: 2014/04/01
+	Language: Russian
+	Doctype: HTML5
+	Components: Laravel, jQuery
+	IDE: Sublime Text, PhpStorm
